@@ -1,0 +1,278 @@
+﻿[
+    {
+        "Key":  "banner-1",
+        "File":  "/images/banner-1.jpg"
+    },
+    {
+        "Key":  "banner-2",
+        "File":  "/images/banner-2.jpg"
+    },
+    {
+        "Key":  "banner-3",
+        "File":  "/images/banner-3.jpg"
+    },
+    {
+        "Key":  "banner-4",
+        "File":  "/images/banner-4.jpg"
+    },
+    {
+        "Key":  "banner-5",
+        "File":  "/images/banner-5.jpg"
+    },
+    {
+        "Key":  "banner-6",
+        "File":  "/images/banner-6.jpg"
+    },
+    {
+        "Key":  "cat-1005000",
+        "File":  "/images/cat-1005000.jpg"
+    },
+    {
+        "Key":  "cat-1005001",
+        "File":  "/images/cat-1005001.jpg"
+    },
+    {
+        "Key":  "cat-1005002",
+        "File":  "/images/cat-1005002.jpg"
+    },
+    {
+        "Key":  "cat-1005003",
+        "File":  "/images/cat-1005003.jpg"
+    },
+    {
+        "Key":  "cat-1005004",
+        "File":  "/images/cat-1005004.jpg"
+    },
+    {
+        "Key":  "cat-1005005",
+        "File":  "/images/cat-1005005.jpg"
+    },
+    {
+        "Key":  "cat-1005006",
+        "File":  "/images/cat-1005006.jpg"
+    },
+    {
+        "Key":  "subcat-1010001",
+        "File":  "/images/subcat-1010001.jpg"
+    },
+    {
+        "Key":  "subcat-1010002",
+        "File":  "/images/subcat-1010002.jpg"
+    },
+    {
+        "Key":  "subcat-1011001",
+        "File":  "/images/subcat-1011001.jpg"
+    },
+    {
+        "Key":  "subcat-1011002",
+        "File":  "/images/subcat-1011002.jpg"
+    },
+    {
+        "Key":  "subcat-1012001",
+        "File":  "/images/subcat-1012001.jpg"
+    },
+    {
+        "Key":  "subcat-1012002",
+        "File":  "/images/subcat-1012002.jpg"
+    },
+    {
+        "Key":  "subcat-1013001",
+        "File":  "/images/subcat-1013001.jpg"
+    },
+    {
+        "Key":  "subcat-1013002",
+        "File":  "/images/subcat-1013002.jpg"
+    },
+    {
+        "Key":  "subcat-1014001",
+        "File":  "/images/subcat-1014001.jpg"
+    },
+    {
+        "Key":  "subcat-1014002",
+        "File":  "/images/subcat-1014002.jpg"
+    },
+    {
+        "Key":  "subcat-1015001",
+        "File":  "/images/subcat-1015001.jpg"
+    },
+    {
+        "Key":  "subcat-1015002",
+        "File":  "/images/subcat-1015002.jpg"
+    },
+    {
+        "Key":  "subcat-1016001",
+        "File":  "/images/subcat-1016001.jpg"
+    },
+    {
+        "Key":  "subcat-1016002",
+        "File":  "/images/subcat-1016002.jpg"
+    },
+    {
+        "Key":  "goods-4008501-1",
+        "File":  "/images/goods-4008501-1.jpg"
+    },
+    {
+        "Key":  "goods-4008501-2",
+        "File":  "/images/goods-4008501-2.jpg"
+    },
+    {
+        "Key":  "goods-4008502-1",
+        "File":  "/images/goods-4008502-1.jpg"
+    },
+    {
+        "Key":  "goods-4008502-2",
+        "File":  "/images/goods-4008502-2.jpg"
+    },
+    {
+        "Key":  "goods-4008503-1",
+        "File":  "/images/goods-4008503-1.jpg"
+    },
+    {
+        "Key":  "goods-4008503-2",
+        "File":  "/images/goods-4008503-2.jpg"
+    },
+    {
+        "Key":  "goods-4008504-1",
+        "File":  "/images/goods-4008504-1.jpg"
+    },
+    {
+        "Key":  "goods-4008504-2",
+        "File":  "/images/goods-4008504-2.jpg"
+    },
+    {
+        "Key":  "goods-4008505-1",
+        "File":  "/images/goods-4008505-1.jpg"
+    },
+    {
+        "Key":  "goods-4008505-2",
+        "File":  "/images/goods-4008505-2.jpg"
+    },
+    {
+        "Key":  "goods-4008506-1",
+        "File":  "/images/goods-4008506-1.jpg"
+    },
+    {
+        "Key":  "goods-4008506-2",
+        "File":  "/images/goods-4008506-2.jpg"
+    },
+    {
+        "Key":  "goods-4008507-1",
+        "File":  "/images/goods-4008507-1.jpg"
+    },
+    {
+        "Key":  "goods-4008507-2",
+        "File":  "/images/goods-4008507-2.jpg"
+    },
+    {
+        "Key":  "goods-4008508-1",
+        "File":  "/images/goods-4008508-1.jpg"
+    },
+    {
+        "Key":  "goods-4008508-2",
+        "File":  "/images/goods-4008508-2.jpg"
+    },
+    {
+        "Key":  "goods-4008509-1",
+        "File":  "/images/goods-4008509-1.jpg"
+    },
+    {
+        "Key":  "goods-4008509-2",
+        "File":  "/images/goods-4008509-2.jpg"
+    },
+    {
+        "Key":  "goods-4008510-1",
+        "File":  "/images/goods-4008510-1.jpg"
+    },
+    {
+        "Key":  "goods-4008510-2",
+        "File":  "/images/goods-4008510-2.jpg"
+    },
+    {
+        "Key":  "goods-4008511-1",
+        "File":  "/images/goods-4008511-1.jpg"
+    },
+    {
+        "Key":  "goods-4008511-2",
+        "File":  "/images/goods-4008511-2.jpg"
+    },
+    {
+        "Key":  "goods-4008512-1",
+        "File":  "/images/goods-4008512-1.jpg"
+    },
+    {
+        "Key":  "goods-4008512-2",
+        "File":  "/images/goods-4008512-2.jpg"
+    },
+    {
+        "Key":  "goods-4008513-1",
+        "File":  "/images/goods-4008513-1.jpg"
+    },
+    {
+        "Key":  "goods-4008513-2",
+        "File":  "/images/goods-4008513-2.jpg"
+    },
+    {
+        "Key":  "goods-4008514-1",
+        "File":  "/images/goods-4008514-1.jpg"
+    },
+    {
+        "Key":  "goods-4008514-2",
+        "File":  "/images/goods-4008514-2.jpg"
+    },
+    {
+        "Key":  "goods-4008515-1",
+        "File":  "/images/goods-4008515-1.jpg"
+    },
+    {
+        "Key":  "goods-4008515-2",
+        "File":  "/images/goods-4008515-2.jpg"
+    },
+    {
+        "Key":  "goods-4008516-1",
+        "File":  "/images/goods-4008516-1.jpg"
+    },
+    {
+        "Key":  "goods-4008516-2",
+        "File":  "/images/goods-4008516-2.jpg"
+    },
+    {
+        "Key":  "goods-4008517-1",
+        "File":  "/images/goods-4008517-1.jpg"
+    },
+    {
+        "Key":  "goods-4008517-2",
+        "File":  "/images/goods-4008517-2.jpg"
+    },
+    {
+        "Key":  "goods-4008518-1",
+        "File":  "/images/goods-4008518-1.jpg"
+    },
+    {
+        "Key":  "goods-4008518-2",
+        "File":  "/images/goods-4008518-2.jpg"
+    },
+    {
+        "Key":  "goods-4008519-1",
+        "File":  "/images/goods-4008519-1.jpg"
+    },
+    {
+        "Key":  "goods-4008519-2",
+        "File":  "/images/goods-4008519-2.jpg"
+    },
+    {
+        "Key":  "goods-4008520-1",
+        "File":  "/images/goods-4008520-1.jpg"
+    },
+    {
+        "Key":  "goods-4008520-2",
+        "File":  "/images/goods-4008520-2.jpg"
+    },
+    {
+        "Key":  "goods-4008521-1",
+        "File":  "/images/goods-4008521-1.jpg"
+    },
+    {
+        "Key":  "goods-4008521-2",
+        "File":  "/images/goods-4008521-2.jpg"
+    }
+]

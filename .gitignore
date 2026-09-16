@@ -1,0 +1,29 @@
+# ===== 依赖 / 构建产物 =====
+node_modules/
+target/
+dist/
+*.class
+
+# ===== IDE =====
+.idea/
+*.iml
+.vscode/
+
+# ===== Claude Code 本地配置（含本机路径与明文命令，勿提交）=====
+.claude/
+
+# ===== 本地配置（含数据库密码 / JWT 密钥）=====
+# 精确匹配，模板 application-local.yml.example 不受影响
+application-local.yml
+
+# ===== 临时 / 备份 =====
+*.bak
+*.log
+*.tmp
+
+# ===== 个人工作文档 =====
+prompt.md
+
+# ===== 操作系统 =====
+.DS_Store
+Thumbs.db

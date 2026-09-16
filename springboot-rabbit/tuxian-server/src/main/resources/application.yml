@@ -1,0 +1,72 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: tuxian-server
+
+  # ==================== 本地敏感配置 ====================
+  # 数据库密码、JWT 密钥放在 application-local.yml（已被 .gitignore 排除）。
+  # 首次 clone 后：把 application-local.yml.example 复制成 application-local.yml 再填真实值。
+  profiles:
+    active: local
+
+  # ==================== 数据源（MySQL） ====================
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/tuxian_mall?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai&useSSL=false&allowPublicKeyRetrieval=true&rewriteBatchedStatements=true
+    username: root
+    # password 见 application-local.yml
+
+  # ==================== Redis ====================
+  redis:
+    host: localhost
+    port: 6379
+    password:
+    database: 10
+
+  # ==================== Spring Cache 使用 Redis ====================
+  cache:
+    type: redis
+
+  # ==================== Springfox/Knife4j 兼容 Spring Boot 2.6+ ====================
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+  # 让 JSON 序列化使用我们自定义的 JacksonObjectMapper
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: Asia/Shanghai
+
+# ==================== MyBatis-Plus ====================
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+    # 开发期打印 SQL，方便排查；上线可移除
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      id-type: auto
+      # 逻辑删除字段
+      logic-delete-field: isDeleted
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+
+# ==================== 小兔鲜自定义配置 ====================
+tuxian:
+  jwt:
+    # 用户端 JWT
+    # user-secret-key 见 application-local.yml
+    user-ttl: 7200000          # 2 小时（毫秒）
+    user-token-name: token
+    # 管理端 JWT（与用户端隔离）
+    # admin-secret-key 见 application-local.yml
+    admin-ttl: 7200000
+    admin-token-name: token
+
+# ==================== Knife4j ====================
+knife4j:
+  enable: true
+  setting:
+    language: zh_cn
